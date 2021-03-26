@@ -20,10 +20,10 @@ Currently, I am Information Technology Student at Gandhinagar Institute of Techn
 
 ### Find me around the web🌎:  <img align="right" src="https://github.com/YashM20/YashM20/blob/main/programmer.png" alt="Programmer at work" width=17% height=17%/>
 
-🔰
+
 - __Sharing Learning Updates on [LinkedIn](https://www.linkedin.com/in/mahajan-yash-396298170/)__
 - __Tinkering with intersection on  [Instagram](https://www.instagram.com/mahajan_yash_20/)__
-- __Editing and Uploading casual Videos on [Youtube](https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag)__
-
+- __Editing and Uploading Videos on [Youtube](https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag)__
+- __You can visit my Website on [yash.team](yash.team)__
 
 ---
