@@ -17,6 +17,9 @@ Currently, I am Information Technology Student at Gandhinagar Institute of Techn
 
 ---
 
+<img align="right" src="https://github.com/YashM20/YashM20/blob/main/programmer.png" alt="Programmer at work" width=20% height=20%/>
+
+
 ### Find me around the web🌎:
 
 - __Sharing Learning Updates on [LinkedIn](https://www.linkedin.com/in/mahajan-yash-396298170/)__
