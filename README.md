@@ -1,10 +1,6 @@
-### Yash Mahajan
+### Hi, I'm Yash Mahajan 👋
 
 <!--
-**YashM20/YashM20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,6 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github.com/YashM20/YashM20/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
 
 Currently, I am Information Technology Student at Gandhinagar Institute of Technology. My Goal is to expand my attained knowledge and improve my technical skills. Upon completion of my degree, I would like to pursue a career as a programmer or developer and apply my Knowledge, Skills and Experience towards providing outstanding outcome.
 
