@@ -15,14 +15,15 @@
 
 Currently, I am Information Technology Student at Gandhinagar Institute of Technology. My Goal is to expand my attained knowledge and improve my technical skills. Upon completion of my degree, I would like to pursue a career as a programmer or developer and apply my Knowledge, Skills and Experience towards providing outstanding outcome.
 
+
 ---
 
-<img align="right" src="https://github.com/YashM20/YashM20/blob/main/programmer.png" alt="Programmer at work" width=20% height=20%/>
+### Find me around the web🌎:  <img align="right" src="https://github.com/YashM20/YashM20/blob/main/programmer.png" alt="Programmer at work" width=17% height=17%/>
 
-
-### Find me around the web🌎:
-
+🔰
 - __Sharing Learning Updates on [LinkedIn](https://www.linkedin.com/in/mahajan-yash-396298170/)__
 - __Tinkering with intersection on  [Instagram](https://www.instagram.com/mahajan_yash_20/)__
 - __Editing and Uploading casual Videos on [Youtube](https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag)__
 
+
+---
