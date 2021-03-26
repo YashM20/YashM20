@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/YashM20/YashM20/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+<img align="right" src="https://github.com/YashM20/YashM20/YashMahajan_logo.jpg" alt="Logo with Name" width=1861px height=405px/>
 
 Currently, I am Information Technology Student at Gandhinagar Institute of Technology. My Goal is to expand my attained knowledge and improve my technical skills. Upon completion of my degree, I would like to pursue a career as a programmer or developer and apply my Knowledge, Skills and Experience towards providing outstanding outcome.
 
