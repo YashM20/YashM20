@@ -22,7 +22,7 @@ Currently, I am Information Technology Student at Gandhinagar Institute of Techn
 
 
 - __Sharing Learning Updates on [LinkedIn](https://www.linkedin.com/in/mahajan-yash-396298170/)__
-- __Tinkering with intersection on  [Instagram](https://www.instagram.com/mahajan_yash_20/)__
+- __Tinkering with interaction on  [Instagram](https://www.instagram.com/mahajan_yash_20/)__
 - __Editing and Uploading Videos on [Youtube](https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag)__
 - __You can visit my Website on [yash.team](yash.team)__
 
