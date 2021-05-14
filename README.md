@@ -26,7 +26,6 @@ Currently, I am Information Technology Student at Gandhinagar Institute of Techn
 <a href="https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yash.team" height="30" width="40" /></a>
 <a href="https://twitter.com/YashMah28003387" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="YashMah28003387" height="30" width="40" /></a>
 <a href="https://yash.team/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg" alt="yash.team" height="30" width="40" /></a>
-https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg
 </p>
 
 
