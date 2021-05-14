@@ -24,7 +24,7 @@ Currently, I am Information Technology Student at Gandhinagar Institute of Techn
 <a href="https://www.linkedin.com/in/mahajan-yash-396298170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahajan-yash-396298170" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mahajan_yash_20/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mahajan_yash_20" height="30" width="40" /></a>
 <a href="https://twitter.com/YashMah28003387" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="YashMah28003387" height="30" width="40" /></a>
-<a href="https://yash.team/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="yash.team" height="30" width="40" /></a>
+<a href="https://yash.team/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg" alt="yash.team" height="30" width="40" /></a>
 </p>
 
 
