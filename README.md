@@ -33,8 +33,8 @@ __Editing and Uploading Videos on [Youtube](https://www.youtube.com/channel/UCA6
 
 <a href="https://twitter.com/YashMah28003387" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="YashMah28003387" height="30" width="40" /></a> 
 __Twitting some taught on [Twitter](https://twitter.com/YashMah28003387)__
-
+<!--
 <a href="https://yash.team/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg" alt="yash.team" height="30" width="40" /></a> 
 __You can visit my Website on [yash.team](yash.team)__
-
+-->
 ---
