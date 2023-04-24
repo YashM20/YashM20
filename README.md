@@ -48,7 +48,7 @@ __You can visit my Website on [yash.team](yash.team)__
 ### Find me around the web🌎:  <img align="right" src="https://github.com/YashM20/YashM20/blob/main/programmer.png" alt="Programmer at work" width=28% height=28%/><br><br><br><br><a href="https://www.linkedin.com/in/mahajan-yash-396298170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahajan-yash-396298170" height="30" width="40" /></a> <br>__Sharing Learning Updates on [LinkedIn](https://www.linkedin.com/in/mahajan-yash-396298170/)__<br><br><a href="https://www.instagram.com/mahajan_yash_20/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mahajan_yash_20" height="30" width="40" /></a> <br>__Tinkering with interaction on  [Instagram](https://www.instagram.com/mahajan_yash_20/)__<br><br><a href="https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yash.team" height="30" width="40" /></a> <br>__Editing and Uploading Videos on [Youtube](https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag)__<br><br><a href="https://twitter.com/YashMah28003387" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="YashMah28003387" height="30" width="40" /></a> <br>__Twitting some taught on [Twitter](https://twitter.com/YashMah28003387)__ -->
 
 
-## ---
+## 
 
 
 ## 🌐 Socials:
