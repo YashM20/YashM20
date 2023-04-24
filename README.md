@@ -47,7 +47,7 @@ __You can visit my Website on [yash.team](yash.team)__
 <!-- # 💫 About Me:
 ### Find me around the web🌎:  <img align="right" src="https://github.com/YashM20/YashM20/blob/main/programmer.png" alt="Programmer at work" width=28% height=28%/><br><br><br><br><a href="https://www.linkedin.com/in/mahajan-yash-396298170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahajan-yash-396298170" height="30" width="40" /></a> <br>__Sharing Learning Updates on [LinkedIn](https://www.linkedin.com/in/mahajan-yash-396298170/)__<br><br><a href="https://www.instagram.com/mahajan_yash_20/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mahajan_yash_20" height="30" width="40" /></a> <br>__Tinkering with interaction on  [Instagram](https://www.instagram.com/mahajan_yash_20/)__<br><br><a href="https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yash.team" height="30" width="40" /></a> <br>__Editing and Uploading Videos on [Youtube](https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag)__<br><br><a href="https://twitter.com/YashMah28003387" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="YashMah28003387" height="30" width="40" /></a> <br>__Twitting some taught on [Twitter](https://twitter.com/YashMah28003387)__ -->
 
-
+##
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mahajan_yash_20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yash-mahajan-396298170/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/yash_M_20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag) 
 
@@ -65,6 +65,5 @@ __You can visit my Website on [yash.team](yash.team)__
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YASHM20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
