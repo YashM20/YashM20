@@ -57,7 +57,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YASHM20&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=YASHM20&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=YASHM20&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASHM20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
