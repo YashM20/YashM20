@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/YashM20/YashM20/blob/main/YashMahajan_Logo.jpg" alt="Logo with Name" width=400% height=100%/>
+<img align="center" src="https://github.com/YashM20/YashM20/blob/main/banner.jfif" alt="Logo with Name" width=400% height=100%/>
 
 
 
