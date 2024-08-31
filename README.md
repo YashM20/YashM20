@@ -11,8 +11,8 @@
 - ⚡ Fun fact: ...
 -->
 
-[![](https://visitcount.itsvg.in/api?id=YashM20&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+<img align="center" src="https://github.com/YashM20/YashM20/blob/main/banner.jfif" alt="Logo with Name" width=400% height=100%/>
 
 
 
@@ -26,7 +26,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahajan_yash_20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-mahajan-396298170/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yash_M_20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag) 
 
-[![](https://visitcount.itsvg.in/api?id=YashM20&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=YashM20&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
