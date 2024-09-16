@@ -4,23 +4,24 @@
 
 <span align="center">
   <h4> Hi, I'm Yash Mahajan 👋
-  </br></br>
+
+  </br>
+  </br>
+    
+  [![](https://visitcount.itsvg.in/api?id=YashM20&label=Profile%20Views&color=1&icon=0&pretty=true)](https://github.com/YashM20) 
+[![GitHub followers](https://img.shields.io/github/followers/YashM20?label=Follow%20me&style=social)](https://github.com/yashm20) 
+  </br>
+  </br>
     🚀 Full Stack Developer | 💻 Web Developer | 📱 Mobile App Developer
   </br></br>
   </h4>
   <p align="justify">
     Experienced Software Developer with a demonstrated history of working in the information technology and services industry. Skilled in React, React Native, Next Js, Node.js, Express.js, MongoDB, AWS, and more. Strong engineering professional with a Bachelor of Engineering in Information Technology, Based in India.
   </p>
-  <br/>
+  
 </p>
 </span>
 
-  <span align="center">
-
-[![](https://visitcount.itsvg.in/api?id=YashM20&label=Profile%20Views&color=1&icon=0&pretty=true)](https://github.com/YashM20) 
-[![GitHub followers](https://img.shields.io/github/followers/YashM20?label=Follow%20me&style=social)](https://github.com/yashm20) 
-
-</span>
 <hr/>
 
 <details open >
