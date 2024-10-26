@@ -16,7 +16,7 @@
   </br></br>
   </h4>
   <p align="justify">
-    Experienced Software Developer with a demonstrated history of working in the information technology and services industry. Skilled in React, React Native, Next Js, Node.js, Express.js, MongoDB, AWS, and more. Strong engineering professional with a Bachelor of Engineering in Information Technology, Based in India.
+    Experienced Software Developer with a demonstrated history of working in the Software industry. Skilled in React, React Native, Next Js, Node.js, Express.js, MongoDB, AWS, and more. Strong engineering professional with a Bachelor of Engineering in Information Technology, Based in India.
   </p>
   
 </p>
