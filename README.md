@@ -76,8 +76,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCA6diOoc8V7t9YBUjztMAag) 
 
 
-<a href="https://www.freecounterstat.com" title="free page counter"><img src="https://counter2.optistats.ovh/private/freecounterstat.php?c=gud9jmxj6cunxwbtn4epnz2tlh245yef" height="36px" border="0" title="free page counter" alt="free page counter"></a>
-
 <br/>
 
 #### 📊 Tinkering on Github:
